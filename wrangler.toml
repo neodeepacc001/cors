@@ -1,0 +1,7 @@
+name = "cors"
+main = "src/index.ts"
+compatibility_date = "2022-11-24"
+
+kv_namespaces = [
+    { binding = "ANALYTICS", id = "10bff5b83b314ed4aab48da1dcac455e", preview_id = "4daadfc8c22742acab5fb924892f76a9" },
+]
